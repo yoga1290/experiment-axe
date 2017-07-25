@@ -1,0 +1,17 @@
+{
+  "name": "experiment-axe",
+  "version": "1.0.0",
+  "description": "",
+  "main": "express.js",
+  "scripts": {
+	"start": "node express.js",
+	"x": "axe http://localhost:8090/",
+    	"test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "yoga1290",
+  "license": "ISC",
+  "devDependencies": {
+    "axe-cli": "^1.0.3",
+    "express": "^4.15.3"
+  }
+}
